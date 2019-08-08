@@ -1,0 +1,17 @@
+{
+  "name": "jtt",
+  "version": "0.0.1",
+  "description": "Examples, Tutorials",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anupmanekar/jtt.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^3.4.0",
+    "jasmine-console-reporter": "^3.1.0",
+    "jasmine-ts-console-reporter": "^3.1.1",
+    "puppeteer": "^1.19.0",
+    "screen-capture-recorder": "^3.0.3"
+  }
+}
